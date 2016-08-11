@@ -1,6 +1,7 @@
-function(){
-console.log("hello");
+function hello (){
+    let a="hello world";
+console.log(a);
 }
-alert('hello');
-alert('hello');
 
+alert('hello');
+alert('hello');
