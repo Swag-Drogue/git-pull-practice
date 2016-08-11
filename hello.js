@@ -1,4 +1,5 @@
-function(){
-console.log("hello");
+function hello (){
+    let a="hello world";
+console.log(a);
 }
 
